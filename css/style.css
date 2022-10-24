@@ -51,3 +51,16 @@ li{
     width: 100%;
     background-color: blue;
 }
+
+.row-2{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+    
+}
+
+.col-pink{
+    height: 400px;
+    background-color: pink;
+
+}
