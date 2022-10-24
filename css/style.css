@@ -64,3 +64,49 @@ li{
     background-color: pink;
 
 }
+
+.main-first-section.main-third-section{
+    width: 100%;
+}
+
+.row3{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.col-lightblue{
+    height: 600px;
+    width: 60%;
+    background-color: lightblue;
+}
+
+.col-violet{
+    height: 600px;
+    width: 40%;
+    background-color: violet;
+}
+
+.main-second-section{
+    width: 100%;
+    background-color: lightgrey;
+}
+
+.main-fourth-section{
+    width: 100%;
+    background-color: lightgray;
+}
+
+.row4{
+    width: 70%;
+    margin: 0 auto;
+    padding: 50px 0;
+
+}
+
+
+.col-green{
+    height: 800px;
+    background-color: green;
+}
