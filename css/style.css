@@ -147,8 +147,11 @@ li{
 
 .footer2{
     height: 100px;
-    width: 100%;
+    width: 70%;
+    margin: 0 auto;
     margin-top: 2px;
+    padding: 20px 0;
+    
 }
 
 
@@ -159,6 +162,7 @@ li{
     background-color: tomato;
     display: flex;
     justify-content: space-between;
+
 }
  
 .footer-logo, .footer-button{
