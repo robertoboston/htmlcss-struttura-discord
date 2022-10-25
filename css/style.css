@@ -107,7 +107,7 @@ li{
 
 
 .col-green{
-    height: 800px;
+    height: 1000px;
     background-color: green;
 }
 
@@ -121,7 +121,7 @@ li{
 .row5{
     width: 70%;
     margin: 0 auto;
-    padding: 20px 0;
+    padding-top: 20px;
     display: flex;
 
 }
@@ -146,10 +146,7 @@ li{
     margin-top: 2px;
 }
 
-.row5{
-    width: 70%;
-    margin: 0 auto;
-}
+
 
 .rectangle{
     width: 100%;
